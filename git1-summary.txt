@@ -1,1 +1,3 @@
 "Git assignment by Anshika Pandita" 
+"Practicing git commit abd push" 
+"Practicing git commit add push" 
